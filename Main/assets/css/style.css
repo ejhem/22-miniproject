@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body  {
+  font-family: 'Courier New', Courier, monospace;
+  position: relative;
+  font-size: 20px;
+  background-color: antiquewhite;
+  color: #4f4648;
+}
+
+.navbar {
+  display: inline;
+  text-align: right;
+  text-decoration: none;
+
+}
+
+h1, h2{
+  margin: 20px;
+}
